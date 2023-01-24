@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
-    "dotenv": "^16.0.1",
-    "query-string": "^7.1.1"
+    "axios": "^1.2.3",
+    "dotenv": "^16.0.3",
+    "query-string": "^8.1.0"
   }
 }
